@@ -1,0 +1,12 @@
+# GSS data are not redistributed (download from NORC)
+*.dta
+
+# Intermediate data and results created by the notebooks
+*.pkl
+*.parquet
+*.npy
+outputs/
+robustness_missing_types/outputs/
+
+# Jupyter
+.ipynb_checkpoints/

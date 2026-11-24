@@ -1,0 +1,14 @@
+# Python 3.12.3
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.7.2
+xgboost==3.0.5
+shap==0.49.1
+scipy==1.13.1
+statsmodels==0.14.5
+matplotlib==3.9.0
+seaborn==0.13.2
+openpyxl==3.1.2
+pyarrow==19.0.1
+tabulate==0.9.0
+jupyter
