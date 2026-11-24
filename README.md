@@ -38,6 +38,7 @@ Run the notebooks in order from the repository root. Results are written to `out
 | `12_figures` | Figures and Table 1 from the saved results | Figures 2, 5, S1–S4, Table 1 |
 
 Each model is trained with 5-fold cross-validation repeated 20 times, so the full set of notebooks takes many hours.
+The analyses in the paper were run on a laptop (Intel Core i7-12700H, 16 GB RAM, Windows 11).
 
 ### Robustness check: missing-value types (Figure S1-B)
 
